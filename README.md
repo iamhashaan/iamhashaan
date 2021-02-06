@@ -1,7 +1,8 @@
+<img align="centre" width="2600" src="https://github.com/iamhashaan/image/blob/master/1610901170592.jpg">
 <h1 align="center">Hi 👋, I'm Hashaan Adeen</h1>
 <h3 align="center">A passionate Learner and an Android App Developer</h3>
 
-<img align="right" width="400" src="https://github.com/iamhashaan/image/blob/master/Screenshot%202021-02-06%20145712.png">
+<img align="right" width="600" src="https://github.com/iamhashaan/image/blob/master/Screenshot%202021-02-06%20145712.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamhashaan&label=Profile%20views&color=0e75b6&style=flat" alt="iamhashaan" /> </p>
 
@@ -9,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻You can also check out my portfolio at [https://iamhashaan.github.io/](https://iamhashaan.github.io/)
+- 👨‍💻You can also check out my portfolio at https://github.com/iamhashaan
 
 - 📝 My linkedIn Profile [https://www.linkedin.com/in/hashaan-adeen](https://www.linkedin.com/in/hashaan-adeen)
 
