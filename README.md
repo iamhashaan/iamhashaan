@@ -1,8 +1,7 @@
-<img align="centre" width="2600" src="https://github.com/iamhashaan/image/blob/master/1610901170592.jpg">
+<img align="right" width="1000" src="https://github.com/iamhashaan/image/blob/master/Screenshot%202021-02-06%20145712.png">
+
 <h1 align="center">Hi 👋, I'm Hashaan Adeen</h1>
 <h3 align="center">A passionate Learner and an Android App Developer</h3>
-
-<img align="right" width="600" src="https://github.com/iamhashaan/image/blob/master/Screenshot%202021-02-06%20145712.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamhashaan&label=Profile%20views&color=0e75b6&style=flat" alt="iamhashaan" /> </p>
 
