@@ -1,32 +1,56 @@
-<img align="right" width="1000" src="https://github.com/iamhashaan/image/blob/master/Screenshot%202021-02-06%20145712.png">
+<!-- My name -->
+<h1 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="35">
+  &nbsp; Welcome to Hashaan's Profile! &nbsp;
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="35">
+</h1>
 
-<h1 align="center">Hi 👋, I'm Hashaan Adeen</h1>
-<h3 align="center">A passionate Learner and an Android App Developer</h3>
+<!-- My Info -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=I'm+a+software+Engineer;Android+Developer;and+Competitive+Coder" alt="My Info" height="60px"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamhashaan&label=Profile%20views&color=0e75b6&style=flat" alt="iamhashaan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamhashaan" alt="iamhashaan" /></a> </p>
+<!-- About Me -->
+## 👨‍💻 Know Me:
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+* 🏫 &nbsp;I'm a B.Tech CSE'23 student at [Aalim Muhammed Salegh College Of Engineering](https://www.aalimec.ac.in).
+* 👨‍💻 &nbsp;I’m Proficient in Android And Web Development
+* 🌱 &nbsp;Practicing Data Structures and Algorithm.
+* <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">I love to **make friends**. So if you want to say hi, I'll be happy to meet you more!😊
 
-- 👨‍💻You can also check out my portfolio at https://github.com/iamhashaan
+<!-- My contacts -->
+<h2>🤝 Connect with me:</h2>
+<p align="center">
+<a href="tel:+91 9042378109" target="_blank">📱 +91-9042378109</a> | 
+<a href="https://drive.google.com/file/d/1rq-SZHumpKSHb3kh4CLcwZ7ZjihryPBJ/view?usp=sharing" target="_blank">🧾 My Resume</a>
+</p>
 
-- 📝 My linkedIn Profile [https://www.linkedin.com/in/hashaan-adeen](https://www.linkedin.com/in/hashaan-adeen)
-
-- 📫 How to reach me **tkhashaanadeen@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/hashaan-adeen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/hashaan-adeen" height="30" width="40" /></a>
-<a href="https://fb.com/hashaan tk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hashaan tk" height="30" width="40" /></a>
-<a href="https://instagram.com/iamhashaan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamhashaan" height="30" width="40" /></a>
+<!-- My Social Links -->
+<p align="center">
+<a href="mailto:tkhashaanadeen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hashaan-adeen"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.codingninjas.com/studio/profile/133bf98c-b422-49e4-8027-71dd5e956be5"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
+<a href="https://www.instagram.com/iamhashaan"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamhashaan&show_icons=true&locale=en&layout=compact" alt="iamhashaan" /></p>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,html,css,js,python,firebase,git,github,gcp,c,cpp,mysql,postman,visualstudio,idea,wordpress&perline=8)](https://skillicons.dev\\)
+ 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamhashaan&show_icons=true&locale=en" alt="iamhashaan" /></p>
+<h2> 📊 Github stats: </h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamhashaan&" alt="iamhashaan" /></p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhashaan&theme=radical&hide_border=true" alt="nicesapien"></img>
+</div>
+<table>
+<tr>
+<td>
+<img alt="Hashaan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=iamhashaan&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  </td>
+  <td>
+    <img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhashaan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+  </td>
+  </tr>
+  </table>
